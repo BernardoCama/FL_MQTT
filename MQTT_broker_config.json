@@ -1,0 +1,7 @@
+{
+"broker_address": "cafein-mqtt-broker.cern.ch",
+    "MQTT_port" : 8883,
+    "TLS_" : {"ca_certs":""},
+    "AUTH_" : {"username": "","password": ""},
+    "Name_of_federation": "fl/cern-polmi-mri/"
+}
